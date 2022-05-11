@@ -14,7 +14,7 @@ var romanMatrix = [
   [1, 'I']
 ];
 
-function convertToRoman(num) {
+export function convertToRoman(num) {
   if (num === 0) {
     return '';
   }
