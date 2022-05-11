@@ -11,7 +11,7 @@ module.exports = {
   plugins: [
     new CleanWebpackPlugin(), 
     new HtmlWebpackPlugin({
-      title: 'ROMAN-NUMERALS',
+      title: 'Roman Numeral Convertor',
       template: './src/index.html',
       inject: 'body'
     })
