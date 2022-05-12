@@ -1,4 +1,4 @@
-var romanMatrix = [
+export var romanMatrix = [
   [1000, 'M'],
   [900, 'CM'],
   [500, 'D'],
